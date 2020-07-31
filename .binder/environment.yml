@@ -1,0 +1,8 @@
+name: env_titiler_demo
+channels:
+  - conda-forge
+dependencies:
+  - requests
+  - ipyleaflet
+  
+
